@@ -170,6 +170,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [de4js](https://lelinhtinh.github.io/de4js/) - another good JavaScript deobfuscator
 
+[webcrack](https://webcrack.netlify.app/) - deobfuscate obfuscator.io, unminify, transpile, and unpack webpack/browserify
+
 [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - malware scanner for websites, blacklist status, security headers
 
 [FortiGuard Web Filter](https://fortiguard.fortinet.com/webfilter) - URL category lookup, threat reputation check

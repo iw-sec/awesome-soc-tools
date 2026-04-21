@@ -20,7 +20,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [ThreatBook CTI](https://i.threatbook.io/research) - APT and campaign association, AI summary, related files
 
-[Validin](https://app.validin.com) - {desc} 🍒
+[Validin](https://app.validin.com) 🍒
 
 [Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
 
@@ -38,7 +38,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [SecurityTrails](https://securitytrails.com/app/account) - Historical DNS records, subdomains 🍒
 
-[threatYeti](https://threatyeti.com/) - {desc}
+[threatYeti](https://threatyeti.com/)
 
 [MalwareURL](https://www.malwareurl.com/) - URL/IP/domain reputation check
 
@@ -52,23 +52,23 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [InQuest Labs](https://labs.inquest.net/) - [Defunct] IP/domain/hash search; sometimes cracked
 
-[Maltiverse](https://maltiverse.com/intelligence/search) - {desc}
+[Maltiverse](https://maltiverse.com/intelligence/search)
 
 [Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
 
-[SCUMWARE.org](https://www.scumware.org/search.php) - {desc}
+[SCUMWARE.org](https://www.scumware.org/search.php)
 
-[VulDB CTI](https://vuldb.com/?cti) - {desc}
+[VulDB CTI](https://vuldb.com/?cti)
 
-[IPIntel.ai](https://ipintel.ai/) - {desc}
+[IPIntel.ai](https://ipintel.ai/)
 
-[IPThreat.net](https://ipthreat.net/) - {desc}
+[IPThreat.net](https://ipthreat.net/)
 
 [OpenSourceMalware](https://opensourcemalware.com/) - reported malware distribution sources (packages, repos, URLs/domains)
 
-[CleanTalk](https://cleantalk.org/) - {desc}
+[CleanTalk](https://cleantalk.org/)
 
-[Check-The-Sum](Check-The-Sum) - {desc}
+[Check-The-Sum](Check-The-Sum)
 
 <br>
 
@@ -101,7 +101,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [PolySwarm](https://polyswarm.network/) - multi-engine scanning, threat scoring, threat market integration
 
-[Malprob](https://malprob.io/) - {desc}
+[Malprob](https://malprob.io/)
 
 [Cuckoo Sandbox v2](https://cuckoo.cert.ee/dashboard/) - not maintained, demo instance of Cuckoo Sandbox v2, long queue time
 
@@ -121,13 +121,13 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Docguard](https://www.docguard.io/) - document threat detection, macro analysis, static + behavioral checks
 
-[IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard#/pages/dashboard) - {desc}
+[IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard#/pages/dashboard)
 
-[Manalyzer](https://manalyzer.org/) - {desc}
+[Manalyzer](https://manalyzer.org/)
 
-[YOMI](https://yomi.yoroi.company/upload) - {desc}
+[YOMI](https://yomi.yoroi.company/upload)
 
-[Unprotect Project Scan](https://www.unprotect.it/scan/) - {desc}
+[Unprotect Project Scan](https://www.unprotect.it/scan/)
 
 [ELF DIGEST](https://elfdigest.com/search) - Linux binary analysis search
 
@@ -188,7 +188,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [FortiGuard Web Filter](https://fortiguard.fortinet.com/webfilter) - URL category lookup, threat reputation check
 
-[Gridinsoft Site Reputation](https://gridinsoft.com/website-reputation-checker) - {desc}
+[Gridinsoft Site Reputation](https://gridinsoft.com/website-reputation-checker)
 
 [Zulu URL Risk Analyzer](https://zulu.zscaler.com/)
 

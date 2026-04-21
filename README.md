@@ -7,7 +7,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 <br>
 
-## General
+## General ⚙️
 [VirusTotal](https://www.virustotal.com/gui/home/upload) - file/url scanning, multi-AV detection, contextualization, community insight
 
 [OTX AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1&limit=10) - community-driven threat intel, threat feeds, IOC correlation
@@ -66,10 +66,16 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [OpenSourceMalware](https://opensourcemalware.com/) - reported malware distribution sources (packages, repos, URLs/domains)
 
+[CleanTalk](https://cleantalk.org/) - {desc}
+
+[Check-The-Sum](Check-The-Sum) - {desc}
+
 <br>
 
-## Malware Analysis
+## Malware Analysis 🐛
 [MalwareBazaar](https://bazaar.abuse.ch/browse/) - malware sample repository, hash/tag search, file info, multi-vendor integration
+
+[YARAify](https://yaraify.abuse.ch/) - scan suspicious files against a large repository of community YARA rules to detect malware
 
 [ANY.RUN](https://app.any.run/) - interactive sandbox, real-time malware behavior, network analysis 🍒
 
@@ -131,9 +137,13 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [MobSF Online](https://mobsf.live/) - Android/iOS binary analysis platform, upload .apk/.ipa, scan queue, hash search
 
+[UnpacMe](https://www.unpac.me/) - automated malware unpacking and artifact extraction
+
+[Uncover it](https://www.uncoverit.org/) - malware configuration extractor; a bit suspicious, but works
+
 <br>
 
-## Webpage Analysis
+## Webpage Analysis 💻
 [urlscan.io](https://urlscan.io/) - scans and screenshots URLs, captures page structure, passive DNS, IOC extraction
 
 [urlquery.net](https://urlquery.net/) - analyze URL behavior, detect redirects, extract IOCs
@@ -143,6 +153,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [URLVoid](https://www.urlvoid.com/) -  URL/domain reputation, blacklist check, basic metadata
 
 [urlDNA](https://urldna.io/) - scan verdict, webpage fingerprinting, similarity analysis, HTTP transaction events
+
+[ClickFix Hunter](https://clickfix.carsonww.com/)
 
 [Browserling](https://www.browserling.com/) - live 3-min interactive browser testing, safe link viewing
 
@@ -178,9 +190,15 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Gridinsoft Site Reputation](https://gridinsoft.com/website-reputation-checker) - {desc}
 
+[Zulu URL Risk Analyzer](https://zulu.zscaler.com/)
+
+[Symantec WebPulse](https://sitereview.bluecoat.com/#/)
+
+[Palo Alto urlfiltering](https://urlfiltering.paloaltonetworks.com/)
+
 <br>
 
-## DNS/IP Lookup
+## DNS/IP Lookup 🌐
 [CentralOps.net](https://centralops.net/co/) - whois, AS info, DNS records, traceroute, network diagnostics
 
 [Whoisfreaks](https://whoisfreaks.com/) - whois/DNS records search tools
@@ -197,7 +215,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 <br>
 
-## Internet Asset Recon
+## Internet Asset Recon 🔍
 [Netify](https://www.netify.ai/resources/ips) - IP/hostname technology stack (platform/app/network), public bot/web scraper list
 
 [Shodan](https://www.shodan.io/search/advanced) - search exposed devices; subdomains and related IPs, services, banners, vulnerabilities
@@ -216,7 +234,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 <br>
 
-## Other
+## Misc 🧩
 [CyberChef](https://gchq.github.io/CyberChef/) - de(en)coding, parsing and data extraction, text transformation, etc.
 
 [EveBox](https://rules.evebox.org/search) - IDS/IPS rule search, ruleset catalog, rule changelog
@@ -232,6 +250,10 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [OUI Lookup](https://www.wireshark.org/tools/oui-lookup.html) - search OUI of MAC address for vendor information. Supports all formats.
 
 [Wallet Search | BlockExplorer](https://blockexplorer.one/) - search BTC, ETH, LTC, etc. wallet address/transactions
+
+[UAParser.js](https://uaparser.dev/) - parse user-agents, detect known bot/crawler UAs
+
+[UserAgents.io](https://useragents.io/parse) - parse user-agents; bit more verbose than UAParser.js
 
 <br>
 

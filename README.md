@@ -3,7 +3,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 🍒 - tool requires an account for useful/full functionality
 
-👉 [bookmarks.html](bookmarks.html) for browser import (may not be updated)
+👉 [soc-tools.html](soc-tools.html) for browser import (may not be updated)
 
 <br>
 

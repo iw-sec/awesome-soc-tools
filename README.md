@@ -20,7 +20,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [ThreatBook CTI](https://i.threatbook.io/research) - APT and campaign association, AI summary, related files
 
-[Validin](https://app.validin.com) - passive DNS and infrastructure intelligence, IOC enrichment, subdomain/certificate pivoting, threat actor tracking 🍒
+[Validin](https://app.validin.com) - passive DNS/infra intelligence, subdomain/certificate pivoting, threat actor tracking 🍒
 
 [Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
 

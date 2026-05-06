@@ -20,7 +20,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [ThreatBook CTI](https://i.threatbook.io/research) - APT and campaign association, AI summary, related files
 
-[Validin](https://app.validin.com) 🍒
+[Validin](https://app.validin.com) - passive DNS and infrastructure intelligence, IOC enrichment, subdomain/certificate pivoting, threat actor tracking 🍒
 
 [Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
 
@@ -38,7 +38,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [SecurityTrails](https://securitytrails.com/app/account) - Historical DNS records, subdomains 🍒
 
-[threatYeti](https://threatyeti.com/)
+[threatYeti](https://threatyeti.com/) - aggregated threat intelligence search, IOC pivoting, quick enrichment across multiple public sources
 
 [MalwareURL](https://www.malwareurl.com/) - URL/IP/domain reputation check
 
@@ -52,23 +52,23 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [InQuest Labs](https://labs.inquest.net/) - [Defunct] IP/domain/hash search; sometimes cracked
 
-[Maltiverse](https://maltiverse.com/intelligence/search)
+[Maltiverse](https://maltiverse.com/intelligence/search) - IOC enrichment platform, threat scoring, relationships between IPs/domains/hashes, API
 
 [Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
 
-[SCUMWARE.org](https://www.scumware.org/search.php)
+[SCUMWARE.org](https://www.scumware.org/search.php) - lightweight IOC lookup, basic reputation checks for IPs/domains with aggregated blacklist data
 
-[VulDB CTI](https://vuldb.com/?cti)
+[VulDB CTI](https://vuldb.com/?cti) - vulnerability and threat intelligence database, CVE correlation, risk scoring, and exploit references
 
-[IPIntel.ai](https://ipintel.ai/)
+[IPIntel.ai](https://ipintel.ai/) - IP/domain intelligence, risk scoring, geolocation, proxy/VPN detection, abuse classification
 
-[IPThreat.net](https://ipthreat.net/)
+[IPThreat.net](https://ipthreat.net/) - IP/domain reputation, blacklist aggregation, threat categorization, quick lookup for malicious activity
 
 [OpenSourceMalware](https://opensourcemalware.com/) - reported malware distribution sources (packages, repos, URLs/domains)
 
-[CleanTalk](https://cleantalk.org/)
+[CleanTalk](https://cleantalk.org/) - IP/domain reputation, spam and abuse tracking, bot activity detection, blacklist verification
 
-[Check-The-Sum](Check-The-Sum)
+[Check-The-Sum](https://www.check-the-sum.fr/) - open IOC feeds, honeypot-collected IPs/domains/hashes, attacker commands, hourly updates, API
 
 <br>
 
@@ -101,7 +101,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [PolySwarm](https://polyswarm.network/) - multi-engine scanning, threat scoring, threat market integration
 
-[Malprob](https://malprob.io/)
+[Malprob](https://malprob.io/) - ML-based malware probability scoring, static analysis, quick file risk assessment
 
 [Cuckoo Sandbox v2](https://cuckoo.cert.ee/dashboard/) - not maintained, demo instance of Cuckoo Sandbox v2, long queue time
 
@@ -123,11 +123,11 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard#/pages/dashboard)
 
-[Manalyzer](https://manalyzer.org/)
+[Manalyzer](https://manalyzer.org/) - static PE analysis, file structure parsing, anomaly detection, malware indicators
 
-[YOMI](https://yomi.yoroi.company/upload)
+[YOMI](https://yomi.yoroi.company/upload) - static PE analysis, file structure parsing, anomaly detection, malware indicators
 
-[Unprotect Project Scan](https://www.unprotect.it/scan/)
+[Unprotect Project Scan](https://www.unprotect.it/scan/) - malware evasion detection, identifies packing/obfuscation and defense bypass techniques
 
 [ELF DIGEST](https://elfdigest.com/search) - Linux binary analysis search
 
@@ -154,7 +154,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [urlDNA](https://urldna.io/) - scan verdict, webpage fingerprinting, similarity analysis, HTTP transaction events
 
-[ClickFix Hunter](https://clickfix.carsonww.com/)
+[ClickFix Hunter](https://clickfix.carsonww.com/) - detects ClickFix-style phishing/social engineering lures, tracks malicious scripts and delivery chains
 
 [Browserling](https://www.browserling.com/) - live 3-min interactive browser testing, safe link viewing
 
@@ -188,13 +188,13 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [FortiGuard Web Filter](https://fortiguard.fortinet.com/webfilter) - URL category lookup, threat reputation check
 
-[Gridinsoft Site Reputation](https://gridinsoft.com/website-reputation-checker)
+[Gridinsoft Site Reputation](https://gridinsoft.com/website-reputation-checker) - website reputation check, malware/phishing detection, domain trust scoring
 
-[Zulu URL Risk Analyzer](https://zulu.zscaler.com/)
+[Zulu URL Risk Analyzer](https://zulu.zscaler.com/) - URL sandboxing, threat detection, content analysis, risk categorization
 
-[Symantec WebPulse](https://sitereview.bluecoat.com/#/)
+[Symantec WebPulse](https://sitereview.bluecoat.com/#/) - URL categorization, reputation scoring, content classification
 
-[Palo Alto urlfiltering](https://urlfiltering.paloaltonetworks.com/)
+[Palo Alto urlfiltering](https://urlfiltering.paloaltonetworks.com/) - URL categorization, reputation scoring, content classification
 
 <br>
 

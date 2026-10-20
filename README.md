@@ -28,6 +28,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [SecureFeed](https://www.securefeed.com/) - real-time feed aggregation, tagging, automated enrichment
 
+[ICHI](https://ichi.global) - free daily internet cyber-health index; aggregates 20+ public feeds (CISA KEV, Shodan, Censys, abuse.ch, CVE/NVD, US-CERT) into a composite daily score with a live dashboard and RSS alerts feed; useful for morning context before starting triage
+
 [GreyNoise](https://viz.greynoise.io/) - host reputation/behavior, trust level score, timeline 🍒
 
 [Criminal IP](https://www.criminalip.io/) - IP/domain risk scoring, open port enumeration, historical info
